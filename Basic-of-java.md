@@ -14,4 +14,18 @@ platforms such as Windows, Linux, Mac, etc
 
 ![image](https://github.com/user-attachments/assets/f23613b3-db37-4af4-8254-f1ed88068fcd)
 
+ # 2 JDK and JRE
+ JRE is short for Java Runtime Environment, which includes JVM (Java Virtual Machine) and
+ a number of Java libraries that support to execute programs written in the Java language.
+
+ ![image](https://github.com/user-attachments/assets/c9fe23aa-da7e-4558-ba1a-c70e7fbdc7a9)
+
+ JRE is short for Java Runtime Environment, which includes JVM (Java Virtual Machine) and a number of Java libraries that support to execute programs 
+ written in the Java language.
+
+ # JDK ( Java Development Kit )
+
+ ![image](https://github.com/user-attachments/assets/f4377136-6e23-41f9-b345-f587efbdcff3)
+
+
 
